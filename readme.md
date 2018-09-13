@@ -41,42 +41,62 @@
 
 ==== 
 
-### 代码引用  ` `   `` ``
-``
-    <table>
-        <thead>
-            <tr>
-                <td>姓名</td>
-                <td>性别</td>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>小玉</td>
-                <td>女</td>
-            </tr>
-            <tr>
-                <td>小明</td>
-                <td>男</td>
-            </tr>
-        </tbody>
-    </table>
-``
-    <table>
-        <thead>
-            <tr>
-                <td>姓名</td>
-                <td>性别</td>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>小玉</td>
-                <td>女</td>
-            </tr>
-            <tr>
-                <td>小明</td>
-                <td>男</td>
-            </tr>
-        </tbody>
-    </table>
+### 代码引用  ` `   ```  ```
+<table>
+    <thead>
+        <tr>
+            <td>姓名</td>
+            <td>性别</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>小玉</td>
+            <td>女</td>
+        </tr>
+        <tr>
+            <td>小明</td>
+            <td>男</td>
+        </tr>
+    </tbody>
+</table>
+```
+<table>
+    <thead>
+        <tr>
+            <td>姓名</td>
+            <td>性别</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>小玉</td>
+            <td>女</td>
+        </tr>
+        <tr>
+            <td>小明</td>
+            <td>男</td>
+        </tr>
+    </tbody>
+</table>
+```
+
+==== 
+
+### 表格
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+dog | bird | cat
+----|------|----
+foo | foo  | foo
+bar | bar  | bar
+baz | baz  | baz
+
+
+![][1]
+[1]: http://latex.codecogs.com/gif.latex?\prod%20\(n_{i}\)+1
