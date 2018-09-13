@@ -39,3 +39,44 @@
 ### 粗体** **  斜体* *
 *劝君*更尽一杯酒，**西出阳关无故人**
 
+==== 
+
+### 代码引用  ` `   `` ``
+``
+    <table>
+        <thead>
+            <tr>
+                <td>姓名</td>
+                <td>性别</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>小玉</td>
+                <td>女</td>
+            </tr>
+            <tr>
+                <td>小明</td>
+                <td>男</td>
+            </tr>
+        </tbody>
+    </table>
+``
+    <table>
+        <thead>
+            <tr>
+                <td>姓名</td>
+                <td>性别</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>小玉</td>
+                <td>女</td>
+            </tr>
+            <tr>
+                <td>小明</td>
+                <td>男</td>
+            </tr>
+        </tbody>
+    </table>
